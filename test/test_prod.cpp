@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "prod.h"
+#include "Prod.h"
 
 TEST(ProdTest, HandlesPositiveInput)
 {
